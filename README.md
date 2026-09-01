@@ -1,6 +1,6 @@
 # INFO 450: Programming for Business Analytics
 **Virginia Commonwealth University** | School of Business  
-**Course Code:** INFO 450 — [Semester, Year]  
+**Course Code:** INFO 450 — [Fall, 2026]  
 **Developer:** [Your Name] ([your-eid]@vcu.edu)
 
 ---
