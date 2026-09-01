@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Course & Project Overview
+## Course & Project Overview
 This repository contains coursework, data pipelines, and analytical models developed for **INFO 450: Programming for Business Analytics**. The project focuses on applying Python to solve real-world business problems by transforming raw data into actionable, data-driven insights and predictive models.
 
 ### Core Focus Areas
@@ -15,7 +15,7 @@ This repository contains coursework, data pipelines, and analytical models devel
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 | Category | Tool / Library | Usage |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ This repository contains coursework, data pipelines, and analytical models devel
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── data/
