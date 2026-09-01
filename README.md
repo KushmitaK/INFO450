@@ -1,7 +1,7 @@
 # INFO 450: Programming for Business Analytics
 **Virginia Commonwealth University** | School of Business  
-**Course Code:** INFO 450 — [Fall, 2026]  
-**Developer:** [Kushmita Kaur] (kaurk11@vcu.edu)
+**Course Code:** INFO 450 — Fall, 2026 
+**Developer:** Kushmita Kaur (kaurk11@vcu.edu)
 
 ---
 
